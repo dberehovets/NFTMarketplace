@@ -1,0 +1,1 @@
+insert into db_patch (date, version) values ('2022-06-28', 0);
